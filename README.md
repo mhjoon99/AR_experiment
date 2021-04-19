@@ -2,7 +2,7 @@
 
 1. Function List
 <img width="871" alt="스크린샷 2021-04-19 오후 5 50 35" src="https://user-images.githubusercontent.com/70475213/115208644-bf519480-a137-11eb-85ac-cc7ffe5b98a8.png">
-<img width="870" alt="스크린샷 2021-04-19 오후 5 50 57" src="https://user-images.githubusercontent.com/70475213/115208687-cbd5ed00-a137-11eb-965f-aef28e5f42f1.png">
+<img width="870" alt="스크린샷 2021-04-19 오후 6 14 05" src="https://user-images.githubusercontent.com/70475213/115211963-07be8180-a13b-11eb-849c-26b814072a99.png">
 <img width="870" alt="스크린샷 2021-04-19 오후 5 52 24" src="https://user-images.githubusercontent.com/70475213/115208848-0049a900-a138-11eb-9823-7781449a3ec7.png">
 <img width="870" alt="스크린샷 2021-04-19 오후 5 52 38" src="https://user-images.githubusercontent.com/70475213/115208887-08094d80-a138-11eb-9df3-af509ef5834b.png">
 <img width="870" alt="스크린샷 2021-04-19 오후 5 52 50" src="https://user-images.githubusercontent.com/70475213/115208920-0fc8f200-a138-11eb-8bc4-4c98de85a388.png">
