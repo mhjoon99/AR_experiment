@@ -24,3 +24,8 @@ COVID-19의 영향으로 비대면 수업방식이 장기화되면서, 실습수
    3. VR Porting을 통한 Oculus Quest2의 Build(VR부분) 
 
    4. AWS EC2를 활용한 클라우드 서버 구축
+
+
+# Milestone
+
+https://docs.google.com/spreadsheets/d/1FKokFCC-66SFoaIpZZ8rFgS9MYB5Ty6iQVi-LQxiMfg/edit#gid=1115838130
