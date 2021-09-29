@@ -32,3 +32,11 @@ COVID-19의 영향으로 비대면 수업방식이 장기화되면서, 실습수
 # Milestone
 
 https://docs.google.com/spreadsheets/d/1FKokFCC-66SFoaIpZZ8rFgS9MYB5Ty6iQVi-LQxiMfg/edit#gid=1115838130
+
+
+<!--
+# PPT설명자료
+
+[프로젝트설명_2021June.pdf](https://github.com/ShimWooJeong/AR_experiment/files/6936051/_2021June.pdf)
+
+-->
